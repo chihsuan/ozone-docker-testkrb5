@@ -24,3 +24,4 @@ Published only to [GitHub](https://github.com/apache/ozone-docker-testkrb5/pkgs/
 Images are tagged by date.
 
 
+pr test
